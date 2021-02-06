@@ -2,7 +2,7 @@
 <!DOCTYPE PLUGIN [
 <!ENTITY name      "glusterFS">
 <!ENTITY author    "Mark Britton">
-<!ENTITY version   "2018">
+<!ENTITY version   "2021">
 <!ENTITY md5       "">
 <!ENTITY launch    "StartServer">
 <!ENTITY plugdir   "/usr/local/emhttp/plugins/&name;">
